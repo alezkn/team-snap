@@ -17,8 +17,10 @@
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5",
     "react-router-dom": "^6.11.2",
+    "redux-persist": "^6.0.0",
     "rxjs": "^7.8.1",
-    "styled-components": "^6.0.0-rc.1"
+    "styled-components": "^6.0.0-rc.1",
+    "vite-aliases": "^0.11.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
